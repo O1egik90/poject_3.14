@@ -25,3 +25,5 @@ $ git --version
 ```bash=
 $ sudo apt install git
 ```
+
+[< на главную](./readme.md)
